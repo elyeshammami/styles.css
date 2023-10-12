@@ -1,0 +1,354 @@
+.input-text,
+.input-number,
+.input-date,
+.input-password {
+  width: 100%;
+  padding: 8px; /* Réduire le rembourrage */
+  margin: 5px 0; /* Réduire la marge */
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  font-size: 12px; /* Réduire la taille de la police */
+}
+
+.input-text::placeholder,
+.input-number::placeholder,
+.input-date::placeholder,
+.input-password::placeholder {
+  color: #999;
+}
+
+/* Styles du bouton */
+.submit-button {
+  background-color: #FF5733;
+  color: #fff;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.submit-button:hover {
+  background-color: #E32636;
+}
+
+/* Styles de la vidéo */
+.video-iframe {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+}
+
+/* Styles du pied de page */
+.copyright-footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 14px;
+}.input-text,
+.input-number,
+.input-date,
+.input-password {
+  width: 100%;
+  padding: 8px; /* Réduire le rembourrage */
+  margin: 5px 0; /* Réduire la marge */
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  font-size: 12px; /* Réduire la taille de la police */
+}
+
+.input-text::placeholder,
+.input-number::placeholder,
+.input-date::placeholder,
+.input-password::placeholder {
+  color: #999;
+}
+
+/* Styles du bouton */
+.submit-button {
+  background-color: #FF5733;
+  color: #fff;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.submit-button:hover {
+  background-color: #E32636;
+}
+
+/* Styles de la vidéo */
+.video-iframe {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+}
+
+/* Styles du pied de page */
+.copyright-footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 14px;
+}
+
+/* Styles de l'image à droite */
+.footer-logo {
+  max-width: 100px;
+  float: right; /* Déplace l'image à droite */
+  margin: 0 0 20px 20px; /* Espacement par rapport aux éléments à gauche */
+}
+
+/* Styles du pied de page */
+.contact-form {
+  text-align: left; /* Aligner les champs de formulaire à gauche */
+}
+
+/* Ajustez les styles de votre bouton si nécessaire */
+.submit-button {
+  background-color: #FF5733;
+  color: #fff;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.submit-button:hover {
+  background-color: #E32636;
+}
+
+/* Styles de la vidéo */
+.video-iframe {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+}
+
+/* Styles du pied de page */
+.copyright-footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 14px;
+}
+
+.copyright-footer p {
+  margin: 0;
+}
+.main-header h1 {
+    text-align: center;
+    color: red;
+    font-size: 2rem;
+    margin: 0;
+  }
+  .main-header h1 {
+    text-align: center;
+    color: red;
+    font-size: 2rem;
+    margin: 0;
+  }
+  
+  .main-header h1 {
+    text-align: center;
+    color: red;
+    font-size: 2rem;
+    margin: 0;
+  }
+  
+  /* Styles de l'image */
+  .footer-logo {
+    max-width: 200px; /* Augmente la largeur de l'image */
+    float: right; /* Place l'image à droite */
+  }
+  nav {
+    background-color: #333; /* Couleur de fond */
+    padding: 15px 0; /* Espace interne */
+    text-align: center; /* Centre le contenu */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Ajoute une ombre légère */
+  }
+  
+  /* Style de la liste non ordonnée */
+  nav ul {
+    list-style-type: none; /* Supprime les puces de liste par défaut */
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style des éléments de liste */
+  nav li {
+    display: inline-block; /* Affiche les éléments en ligne avec espacement */
+    margin: 0 20px;
+    position: relative;
+  }
+  
+  /* Style des liens */
+  nav a {
+    text-decoration: none; /* Supprime le soulignement des liens */
+    color: #fff; /* Couleur du texte des liens */
+    font-size: 16px; /* Taille de la police */
+    font-weight: bold; /* Police en gras */
+    text-transform: uppercase; /* Convertit le texte en majuscules */
+    transition: color 0.3s; /* Animation de changement de couleur au survol */
+  }
+  
+  /* Style des liens au survol de la souris */
+  nav a:hover {
+    color: #FF5733; /* Couleur du texte des liens au survol */
+  }
+  label {
+    display: block; /* Affiche le label sur une nouvelle ligne */
+    margin-bottom: 5px; /* Réduit la marge en bas du label */
+  }
+  
+  /* Styles des éléments de formulaire */
+.input-text,
+.input-number,
+.input-date,
+.input-password {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 2px solid #FF5733; /* Bordure légèrement plus épaisse et couleur différente */
+  border-radius: 5px;
+  font-size: 16px; /* Taille de police légèrement plus grande */
+  color: #333;
+}
+
+/* Ajoutez une transition pour un effet de survol */
+.input-text,
+.input-number,
+.input-date,
+.input-password {
+  transition: border-color 0.3s;
+}
+
+/* Changez la couleur de la bordure au survol */
+.input-text:hover,
+.input-number:hover,
+.input-date:hover,
+.input-password:hover {
+  border-color: #E32636; /* Couleur de bordure au survol */
+}
+
+/* Styles du bouton */
+.submit-button {
+  background-color: #FF5733;
+  color: #fff;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px
+
+  }
+  .input-text,
+.input-number,
+.input-date,
+.input-password {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0; /* Réduit la marge en haut et en bas des champs */
+  border: 2px solid #FF5733; /* Bordure légèrement plus épaisse et couleur différente */
+  border-radius: 5px;
+  font-size: 16px; /* Taille de police légèrement plus grande */
+  color: #333;
+}
+
+/* Ajuste la marge entre le label et le champ de saisie */
+label {
+  display: block; /* Affiche le label sur une nouvelle ligne */
+  margin: 5px 0; /* Réduit la marge en haut et en bas du label */
+}
+
+/* Styles du bouton */
+.submit-button {
+  background-color: #FF5733;
+  color: #fff;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px; /* Légèrement plus grande taille de police */
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.submit-button:hover {
+  background-color: #E32636;
+}
+
+  /* Styles du bouton */
+  .submit-button {
+    background-color: #FF5733;
+    color: #fff;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .submit-button:hover {
+    background-color: #E32636;
+  }
+  
+  /* Styles de la vidéo */
+  .video-iframe {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+  }
+  
+  /* Styles du pied de page */
+  .copyright-footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 14px;
+  }
+  body {
+    background-color: #FF5733; /* Rouge */
+    color: #333; /* Couleur du texte */
+    font-family: 'Roboto', sans-serif; /* Police de caractères */
+    margin: 0;
+    padding: 0;
+    background-color: #FF5733; /* Rouge */
+    color: #333; /* Couleur du texte par défaut pour le contenu */
+    font-family: 'Roboto', sans-serif; /* Police de caractères */
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style du titre en noir */
+  .main-header h1 {
+    text-align: center;
+    color: #000; /* Noir */
+    font-size: 2rem;
+    margin: 0;
+
+    .contact-form {
+        width: 80%; /* Largeur du formulaire */
+        max-width: 400px; /* Largeur maximale du formulaire */
+        margin: 0 auto; /* Centre le formulaire horizontalement */
+        text-align: center; /* Centre le contenu du formulaire */
+      }
+      
+    
+
+
+
+  
+
+
+
+  
